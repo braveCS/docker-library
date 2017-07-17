@@ -1,4 +1,4 @@
-FROM quay.io/coreos/hyperkube:v1.6.0_coreos.0
+FROM gcr.io/google_containers/hyperkube-amd64:v1.5.4
 MAINTAINER Jason <piml.lui@gmail.com>
 
 
